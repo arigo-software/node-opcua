@@ -1,6 +1,6 @@
 {
   "name": "node-opcua",
-  "version": "0.0.57",
+  "version": "0.0.57-2",
   "description": "pure nodejs OPCUA SDK",
   "homepage": "http://node-opcua.github.io/",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-opcua/node-opcua.git"
+    "url": "git://github.com/arigo-software/node-opcua.git"
   },
   "keywords": [
     "OPCUA",
@@ -29,9 +29,13 @@
     "internet of things"
   ],
   "author": "Etienne Rossignon",
+  "contributors": [{
+    "name": "Martin Lümkemann",
+    "email": "mluemkemann@arigo-software.de"
+  }],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/node-opcua/node-opcua/issues"
+    "url": "https://github.com/arigo-software/node-opcua/issues"
   },
   "devDependencies": {
     "app-module-path": "^1.1.0",
